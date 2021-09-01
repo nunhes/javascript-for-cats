@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxogden/javascript-for-cats.git"
+    "url": "https://github.com/nunhes/javascript-for-cats.git"
   },
   "gh-pages-deploy": {
     "prep": [
@@ -17,12 +17,12 @@
     ],
     "noprompt": "true"
   },
-  "author": "max ogden",
-  "license": "BSD",
+  "author": "nunhes",
+  "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/maxogden/javascript-for-cats/issues"
+    "url": "https://github.com/nunhes/javascript-for-cats/issues"
   },
-  "homepage": "https://github.com/maxogden/javascript-for-cats",
+  "homepage": "https://github.com/nunhes/javascript-for-cats",
   "dependencies": {
     "marked": "^0.3.2",
     "mustache": "^1.0.0"

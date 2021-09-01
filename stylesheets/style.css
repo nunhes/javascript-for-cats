@@ -850,7 +850,7 @@ ul.site li a:hover {
 }
 
 #post.published .document-menu {
-  background-color: #90bb74;
+  background-color: #a30074;
 }
 
 #post.published .metadata {
@@ -867,7 +867,7 @@ ul.site li a:hover {
 }
 
 #post.published .document-menu .options {
-  background-color: #90bb74;
+  background-color: #a30074;
 }
 
 .document-menu-content {
@@ -1338,7 +1338,7 @@ ul.site li a:hover {
 }
 
 .post-content a {
-  color: #90BB74;
+  color: #a30074;
 }
 
 .post-content a:hover {
